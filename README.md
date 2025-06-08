@@ -2,7 +2,7 @@
 
 > "Talk to your past... maybe get closure."
 
-Ajnajai is a locally run, emotionally-powered chatbot that simulates conversations with your **ex-girlfriend** based on **WhatsApp chat data** you fed into it. It uses **Gemini (Google's LLM)** via API to generate contextually aware, realistic, and sometimes dramatic replies — all in the personality of your ex.
+Anjali is a locally run, emotionally-powered chatbot that simulates conversations with your **ex-girlfriend** based on **WhatsApp chat data** you fed into it. It uses **Gemini (Google's LLM)** via API to generate contextually aware, realistic, and sometimes dramatic replies — all in the personality of your ex.
 
 ---
 
